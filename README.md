@@ -19,7 +19,7 @@ user.email=ndungulincyg05@gmail.com
 - Machine Learning"]
 
 ## Current Projects
-- [Project name](link) — short description
+- [My First Web Image](C:\Users\USER\.vscode\cli\index.html) — A simple HTML project created using VS Code to display an image on a webpage.
 
 ## How to Reach Me
 - Email: [ndungulincyg05@gmail.com]
